@@ -7,4 +7,5 @@ This project propose a speech classifier based on deep-convolutional neural netw
 - [librosa](https://pandas.pydata.org/)
 - [pandas](http://librosa.github.io/librosa/)
 
-
+### Methodology
+![](methodology.png)
