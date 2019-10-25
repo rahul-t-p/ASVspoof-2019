@@ -21,4 +21,5 @@ Received from asvspoof organizing committee.
 
 
 ### Modifications
-- Instead of accuracy as loss try F1score as loss.
+- Include F1score metric.
+- Balancing classes in the dataset.
